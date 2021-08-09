@@ -1,7 +1,7 @@
-# Проект «---»
+# Проект «funiro»
 
 ---
-## Ссылка на сайт - [https://vanyusha-pupkin.github.io/---/](https://vanyusha-pupkin.github.io/---/)
+## Ссылка на сайт - [https://vanyusha-pupkin.github.io/funiro/](https://vanyusha-pupkin.github.io/funiro/)
 
 ## Как использовать
 
