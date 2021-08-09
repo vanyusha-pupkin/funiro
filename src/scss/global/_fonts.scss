@@ -1,6 +1,11 @@
 // font
 //@include font-face("название","имя файла", "локальное имя 1", "локальное имя 2", вес шрифта, стиль);
 
+@include font-face("Gilroy", "Gilroy-Regular", "Gilroy", "Gilroy-Regular", 400, normal);
+@include font-face("Gilroy", "Gilroy-Medium", "Gilroy Medium", "Gilroy-Medium", 500, normal);
+@include font-face("Gilroy", "Gilroy-SemiBold", "Gilroy SemiBold", "Gilroy-SemiBold", 600, normal);
+@include font-face("Gilroy", "Gilroy-Bold", "Gilroy Bold", "Gilroy-Bold", 700, normal);
+
 
 // template
 // @include font-face("","", "", "", 400, normal);
