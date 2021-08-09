@@ -18,8 +18,8 @@ $padding-bp-3:      $p-bp-3 + px;
 // $padding-width-max: $p-w-max + px;
 
 //SIZE
-$w-layout: 1920;
-$w-max: 1200;
+$w-layout: 1440;
+$w-max: 1240;
 $w-bp-1: 970;
 $w-bp-2: 750;
 $w-bp-3: 420;
@@ -50,14 +50,23 @@ $bp-4: 479.98;
 //COLOR
 $color-black: #000000;
 $color-white: #ffffff;
+$color-primary: #E89F71;
+$color-green-accents: #2EC1AC;
+$color-red-accents: #E97171;
+$color-gray1: #3A3A3A;
+$color-gray2: #616161;
+$color-gray3: #898989;
+$color-gray4: #B0B0B0;
+$color-gray5: #D8D8D8;
+$color-light-bg: #F4F5F7;;
 
 
 //FONT
-$font-family-base: "Arial", sans-serif;
-$font-size-base: 16px;
-$line-height-base: 140%;
-$font-weight-base: 400;
-$font-color-base: $color-black;
+$font-family-base: "Gilroy", "Arial", sans-serif;
+$font-size-base: 20px;
+$line-height-base: 150%;
+$font-weight-base: 500;
+$font-color-base: $color-gray3;
 
 //BACKGROUND
 $body-bg-color: $color-white;
